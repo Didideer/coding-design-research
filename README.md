@@ -2,10 +2,10 @@
 ## **part1 Imaging Technique** 
 ## *Images*
 artwork1
-![artwork1](readmeImages/artwork.png)
+![artwork1](readmeImages/artwork1.png)
 
 artwork2
-![artwork2](readmeImages/artwork.png)
+![artwork2](readmeImages/artwork2.png)
 **Inspiration**
 #### In this artwork it turn the color become a flow, I also want to create the colorful interactive flow. In my work flow may consist of different element. Here are three aspects i want to learn from this art work
 
@@ -22,6 +22,11 @@ artwork2
 
 ## *The Link*
   [the link for coding](https://openprocessing.org/sketch/2152011)
+  ## *Images*
+coding Image
+![codingimage2](readmeImages/coding2.png)
+
+
 
 #### The code segment utilizes the p5.js library.
 
