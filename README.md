@@ -31,19 +31,17 @@ coding Image
 #### The code segment utilizes the p5.js library.
 
 
-#### Flow effect, color variation, and mouse interaction:
+#### **Flow effect, color variation, and mouse interaction:**
 
-```
-The draw() function acts as the main drawing function, called every frame. Its primary role is to update and draw two layers, which are then rendered onto the main canvas.
+##### The draw() function acts as the main drawing function, called every frame. Its primary role is to update and draw two layers, which are then rendered onto the main canvas.
 
-One of these layers is dedicated to rendering the flow effect. Within this layer, the flow effect is drawn, featuring a gradually scaling flow pattern and a brush effect influenced by mouse movement.
+#####One of these layers is dedicated to rendering the flow effect. Within this layer, the flow effect is drawn, featuring a gradually scaling flow pattern and a brush effect influenced by mouse movement.
 
 The main drawing layer is responsible for rendering the faucet effect, utilizing the content of the flow effect layer to update pixels.
-```
 
-#### Graphics presentation:
 
-```
-The createCanvas() function is invoked with the WEBGL parameter, indicating the use of WebGL for rendering. The code includes shader operations for image processing and utilizes framebuffers to create and manipulate image effects. These operations are executed more efficiently within the WebGL context, leveraging the parallel computing capabilities of the GPU.
-```
+#### **Graphics presentation:**
+
+##### The createCanvas() function is invoked with the WEBGL parameter, indicating the use of WebGL for rendering. The code includes shader operations for image processing and utilizes framebuffers to create and manipulate image effects. These operations are executed more efficiently within the WebGL context, leveraging the parallel computing capabilities of the GPU.
+
 
