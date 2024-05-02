@@ -6,7 +6,8 @@ artwork1
 
 artwork2
 ![artwork2](readmeImages/artwork2.png)
-**Inspiration**
+
+#### **Inspiration**
 #### In this artwork it turn the color become a flow, I also want to create the colorful interactive flow. In my work flow may consist of different element. Here are three aspects i want to learn from this art work
 
 
@@ -35,9 +36,9 @@ coding Image
 
 ##### The draw() function acts as the main drawing function, called every frame. Its primary role is to update and draw two layers, which are then rendered onto the main canvas.
 
-#####One of these layers is dedicated to rendering the flow effect. Within this layer, the flow effect is drawn, featuring a gradually scaling flow pattern and a brush effect influenced by mouse movement.
+##### One of these layers is dedicated to rendering the flow effect. Within this layer, the flow effect is drawn, featuring a gradually scaling flow pattern and a brush effect influenced by mouse movement.
 
-The main drawing layer is responsible for rendering the faucet effect, utilizing the content of the flow effect layer to update pixels.
+##### The main drawing layer is responsible for rendering the faucet effect, utilizing the content of the flow effect layer to update pixels.
 
 
 #### **Graphics presentation:**
